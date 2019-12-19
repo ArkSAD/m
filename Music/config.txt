@@ -1,0 +1,6 @@
+owner=358966532308729863
+prefix=s
+game=ShyizerMusic
+stayinchannel=true
+songinstatus=false
+token=NjU3MTU1NTUwNjMwMzc5NTIw.XftF4w.-PPO6nN5V_I6RxFmKDwsUfTaX9A
